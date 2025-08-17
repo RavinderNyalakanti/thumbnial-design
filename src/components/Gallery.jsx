@@ -13,15 +13,15 @@ import t8 from '../assets/thumb8.png'
 import t9 from '../assets/thumb9.png'
 
 const items = [
-  { src: t1, title: "Food" },
-  { src: t2, title: "Adventures" },
-  { src: t3, title: "Cartoons" },
-  { src: t4, title: "Nature" },
-  { src: t5, title: "Trips" },
-  { src: t6, title: "Country Side" },
-  { src: t7, title: "Cooking Hacks" },
-  { src: t8, title: "Travel" },
-  { src: t9, title: "Travel" },
+  { src: t1, title: "Chicken Biryani Recipe" },
+  { src: t2, title: "Exploring The Himalayas" },
+  { src: t3, title: "Anime Vs Cartoon" },
+  { src: t4, title: "National Parks In India" },
+  { src: t5, title: "Tirumala Tirupathi Travel Guide" },
+  { src: t6, title: "Beauty of Villages" },
+  { src: t7, title: "Mutton Biryani making Video" },
+  { src: t8, title: "Exploring The Dubai" },
+  { src: t9, title: "Visit Hyderabad" },
 ];
 
 export default function Gallery() {

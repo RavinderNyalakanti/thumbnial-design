@@ -14,7 +14,7 @@ export default function App() {
 
       <header className="sticky top-0 z-50 backdrop-blur supports-[backdrop-filter]:bg-slate-950/50 border-b border-white/10">
         <nav className="max-w-6xl mx-auto flex items-center justify-between px-4 py-3">
-          <a href="#" className="font-bold text-lg">Ravinder<span className="text-purple-400">.design</span></a>
+          <a href="#" className="font-bold text-lg">Thumbnail<span className="text-purple-400">.Vibes</span></a>
           <div className="hidden md:flex gap-6 text-sm">
             <a href="#work" className="hover:text-purple-300">Work</a>
             <a href="#about" className="hover:text-purple-300">About</a>
