@@ -8,14 +8,20 @@ import t3 from "../assets/thumb3.png";
 import t4 from "../assets/thumb4.png";
 import t5 from "../assets/thumb5.png";
 import t6 from "../assets/thumb6.png";
+import t7 from '../assets/thumb7.png'
+import t8 from '../assets/thumb8.png'
+import t9 from '../assets/thumb9.png'
 
 const items = [
-  { src: t1, title: "Tech Review" },
-  { src: t2, title: "Fitness Transformation" },
-  { src: t3, title: "Travel Guide" },
-  { src: t4, title: "Finance Tips" },
-  { src: t5, title: "Gaming Highlights" },
-  { src: t6, title: "Cooking Hacks" },
+  { src: t1, title: "Food" },
+  { src: t2, title: "Adventures" },
+  { src: t3, title: "Cartoons" },
+  { src: t4, title: "Nature" },
+  { src: t5, title: "Trips" },
+  { src: t6, title: "Country Side" },
+  { src: t7, title: "Cooking Hacks" },
+  { src: t8, title: "Travel" },
+  { src: t9, title: "Travel" },
 ];
 
 export default function Gallery() {
