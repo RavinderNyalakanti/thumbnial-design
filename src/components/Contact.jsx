@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 
 export default function Contact() {
-  const OWNER_EMAIL = "ravindernyalakanti8@gmail.com";
+  const OWNER_EMAIL = "nyalakanti1@gmail.com";
 
   const [form, setForm] = useState({
     name: "",
